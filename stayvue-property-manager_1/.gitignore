@@ -1,7 +1,0 @@
-node_modules/
-data/
-dist/
-.env
-ios/
-android/
-*.log
